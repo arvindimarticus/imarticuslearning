@@ -1,4 +1,4 @@
 +imarticus learning
  +========
  +
- +www.imarticuslearning.org
+ +http://imarticus.org/
